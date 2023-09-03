@@ -1,0 +1,1 @@
+export const POWER_CONSUMPTION_EACH_MOVE = 10;
